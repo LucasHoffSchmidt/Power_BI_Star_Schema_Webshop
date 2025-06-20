@@ -34,10 +34,10 @@ A Power BI project, using artificial webshop data to create a star schema model 
 
 ## Final Report
 **Overview of Central Metrics**
-![Overview of Central Metrics](Images/Overview.png)
+![Overview of Central Metrics](Images/Overview.jpg)
 
 **Product Metrics**
-![Product Metrics](Images/Products.png)
+![Product Metrics](Images/Products.jpg)
 
 **Customer Metrics**
-![Customer Metrics](Images/Customers.png)
+![Customer Metrics](Images/Customers.jpg)
