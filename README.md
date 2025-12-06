@@ -34,7 +34,7 @@ A Power BI project, using artificial webshop data to create a star schema model 
 <img src="images/high_revenue.jpg" alt="Calculating count of high revenue customers" width="800">
 <img src="images/average_discount.jpg" alt="Calculating average sales discount" width="350">
 
-- Create a calculated column based on order size
+- Create a calculated order size column based on quantity purchased by the customer
 <img src="images/order_size.jpg" alt="Calculating order size column" width="300">
 
 **Reporting**
