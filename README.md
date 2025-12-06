@@ -26,7 +26,16 @@ A Power BI project, using artificial webshop data to create a star schema model 
 - Created many to one relationships between fact table and dimensional tables
 - Hid all ID columns from the report view
 - Marked table as date table
-- Created DAX measures and a calculated column using aggregation functions, date functions, calculate, filter and switch
+- Created DAX measures of sales data
+<img src="images/total_revenue.jpg" alt="Calculating total revenue" width="300">
+<img src="images/total_quantity.jpg" alt="Calculating total quantity" width="300">
+<img src="images/revenue_ytd.jpg" alt="Calculating revenue YTD" width="500">
+<img src="images/revenue_total.jpg" alt="Calculating revenue % of total" width="650">
+<img src="images/high_revenue.jpg" alt="Calculating count of high revenue customers" width="800">
+<img src="images/average_discount.jpg" alt="Calculating average sales discount" width="350">
+
+- Create a calculated column based on order size
+<img src="images/order_size.jpg" alt="Calculating order size column" width="300">
 
 **Reporting**
 - Made an overview page with cards of metrics, a line chart of revenue generated each month and a treemap of revenue generated for each category with drilldown functionality.
@@ -38,10 +47,10 @@ A Power BI project, using artificial webshop data to create a star schema model 
 
 ## Final Report
 **Overview of Central Metrics**
-![Overview of Central Metrics](Images/Overview.jpg)
+<img src="images/Overview.jpg" alt="Overview of central metrics" width="1000">
 
 **Product Metrics**
-![Product Metrics](Images/Products.jpg)
+<img src="images/Products.jpg" alt="Product metrics" width="1000">
 
 **Customer Metrics**
-![Customer Metrics](Images/Customers.jpg)
+<img src="images/Customers.jpg" alt="Customer metrics" width="1000">
