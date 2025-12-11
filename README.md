@@ -25,7 +25,7 @@ A Power BI project, using artificial webshop data to create a star schema model 
 **Modeling**
 - Created many to one relationships between fact table and dimensional tables
 - Hid all ID columns from the report view
-- Marked table as date table
+- Set date table as universal date table
 - Created DAX measures of sales data
 <img src="images/total_revenue.jpg" alt="Calculating total revenue" width="300">
 <img src="images/total_quantity.jpg" alt="Calculating total quantity" width="300">
