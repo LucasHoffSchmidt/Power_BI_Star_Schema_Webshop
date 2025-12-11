@@ -1,4 +1,4 @@
-# Power_BI_Star_Schema_Webshop
+# Power BI Artificial Webshop Sales Analysis
 A Power BI project, using artificial webshop data to create a star schema model and report.
 
 ## Quick Links
